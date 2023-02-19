@@ -53,7 +53,7 @@ driver=com.mysql.cj.jdbc.Driver
 
 目录结构
 
- ![image-20230218105125296](C:\Users\CW\AppData\Roaming\Typora\typora-user-images\image-20230218105125296.png)
+![avatar](https://www.cnblogs.com/xiaoxu137/gallery/image/443498.html)
 
 ## 3.数据库的增删改查
 
@@ -157,4 +157,4 @@ driver=com.mysql.cj.jdbc.Driver
 
 ## 4.JDBC API导图
 
-![](D:\DeskTop\JDBC API.jpg)
+![avatar](https://www.cnblogs.com/xiaoxu137/gallery/image/443497.html)
