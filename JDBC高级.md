@@ -276,7 +276,7 @@
 >
 >   - 示意图
 >
->    ![avatar](![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/mulu.png))
+>    ![avatar](![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/%E5%BC%95%E5%87%BA.png)
 >
 > - 基本介绍
 >   - commons-dbutils是Apache组织提供的一个开源的JDBCg工具类库，它是对JDBC的封装，使用dbutils可以极大简化jdbc编码的工作量
