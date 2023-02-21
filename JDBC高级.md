@@ -217,11 +217,7 @@
 >   maxWait=5000
 >   ```
 >   
-<<<<<<< HEAD
->  ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/jar.png)
-=======
 >   ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/jar.png)
->>>>>>> 41b2d1b2b518e4a1ab0e156393aa6e33c037578f
 >
 > - 德鲁伊封装连接和关闭数据库的方法
 >
