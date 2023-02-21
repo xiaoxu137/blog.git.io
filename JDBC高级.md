@@ -447,7 +447,7 @@
 >
 >   - 引出Basic示意图
 >
->      ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/BasicDao.png)
+>      ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/%E5%BC%95%E5%87%BA.png)
 >
 > - 基本说明
 >
