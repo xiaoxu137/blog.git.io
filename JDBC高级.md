@@ -217,7 +217,7 @@
 >   maxWait=5000
 >   ```
 >   
->   ![](D:\DeskTop\jpg\JDBC基础\jar.png)
+>   ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/JDBC%20jar.jpg)
 >
 > - 德鲁伊封装连接和关闭数据库的方法
 >
