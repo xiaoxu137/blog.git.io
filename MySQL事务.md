@@ -74,7 +74,7 @@
 >
 > 3. 幻读：同一查询在同一事务中多次进行，由于其他提交事务所做的插入操作，每次返回不同的结果集，此时发生幻读
 >
-> 4. ![](D:\DeskTop\jpg\JDBC基础\隔离图.png)
+> 4. ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/%E9%9A%94%E7%A6%BB%E5%9B%BE.png)
 >
 > 5. ```mysql
 >    -- 隔离级别常用指令
