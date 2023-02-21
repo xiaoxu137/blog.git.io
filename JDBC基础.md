@@ -53,7 +53,7 @@ driver=com.mysql.cj.jdbc.Driver
 
 目录结构
 
-![avatar](https://www.cnblogs.com/xiaoxu137/gallery/image/443498.html)
+![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/mulu.png)
 
 ## 3.数据库的增删改查
 
@@ -157,4 +157,4 @@ driver=com.mysql.cj.jdbc.Driver
 
 ## 4.JDBC API导图
 
-![avatar](https://www.cnblogs.com/xiaoxu137/gallery/image/443497.html)
+![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/JDBC%20API.jpg)
