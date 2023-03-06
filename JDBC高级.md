@@ -217,11 +217,7 @@
 >   maxWait=5000
 >   ```
 >   
-<<<<<<< HEAD
->  ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/jar.png)
-=======
 >   ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/jar.png)
->>>>>>> 41b2d1b2b518e4a1ab0e156393aa6e33c037578f
 >
 > - 德鲁伊封装连接和关闭数据库的方法
 >
@@ -280,11 +276,7 @@
 >
 >   - 示意图
 >
-<<<<<<< HEAD
->     ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/%E5%BC%95%E5%87%BA.png)
-=======
->    ![avatar](![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/mulu.png))
->>>>>>> 41b2d1b2b518e4a1ab0e156393aa6e33c037578f
+>    ![avatar](![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/%E5%BC%95%E5%87%BA.png)
 >
 > - 基本介绍
 >   - commons-dbutils是Apache组织提供的一个开源的JDBCg工具类库，它是对JDBC的封装，使用dbutils可以极大简化jdbc编码的工作量
@@ -455,7 +447,7 @@
 >
 >   - 引出Basic示意图
 >
->      ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/BasicDao.png)
+>      ![avatar](https://github.com/xiaoxu137/blog.git.io/blob/main/jpg/JDBC%E5%9F%BA%E7%A1%80/%E5%BC%95%E5%87%BA.png)
 >
 > - 基本说明
 >
